@@ -4,8 +4,8 @@ subtitle: IT consulting, Website Design
 layout: default
 modal-id: 2
 date: 2023-01-01
-img: imova.png
-thumbnail: imova.png
+img: imova.jpg
+thumbnail: imova.jpg
 alt: Imova is real estate buying platform that we are helping to progressively and intelligently integrates automation processes.
 project-date: January 2023
 client: Imova SARL
