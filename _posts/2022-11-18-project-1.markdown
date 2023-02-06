@@ -1,0 +1,16 @@
+---
+title: Bodrum Tourisme
+subtitle: Website Design
+layout: default
+modal-id: 1
+date: 2022-11-18
+img: bodrumtourisme.png
+thumbnail: bodrumtourisme.png
+alt: Bodrumtourisme.com is a platform to book luxury driver in Bodrum. It offers a tailor-made VIP Taxi service.
+project-date: November 2022
+client: Bodrum Tourisme
+client-url: https://bodrumtourisme.com/
+category: Web Development
+description: Bodrumtourisme.com is a platform to book luxury driver in Bodrum. It offers a tailor-made VIP Taxi service. We help them transition to automated bookings, payment management, and customer outreatch.
+
+---

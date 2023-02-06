@@ -1,0 +1,53 @@
+url: https://didintel.dev
+baseurl: 
+
+# Site settings
+title: DID INTEL & DEV LLC
+email: hello@didintel.dev
+description: "DID Intel & Dev is a new gen IT outsourcing company with a strong experience in Software development, DevOps, project management and AGILE methodologies."
+
+
+# Team names, titles and social links
+people:
+- name: Yassine Dhane
+  pic: 1
+  position: Lead Developer
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/yassine-dhane-23172a33/
+    - title: stack-overflow
+      url: https://stackoverflow.com/users/6759213/yess
+    - title: github
+      url: https://github.com/yeseen
+
+- name: Asma Dhane
+  pic: 2
+  position: Project Management Consultant
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/asmadhane
+
+- name: Ahmed Omar Miledi
+  pic: 3
+  position: Developer
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/ahmedomi
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/company/did-intel-dev
+  - title: github
+    url: https://github.com/DIDIntel
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 30 N Gould St Ste R
+  - line: Sheridan, WY 82801, USA
+  - line: 18 Av Iskanderia
+  - line: 8000 Nabeul, Tunisia
+
+# Build settings
+markdown: kramdown
+permalink: pretty
