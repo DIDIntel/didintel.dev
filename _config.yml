@@ -1,5 +1,5 @@
 url: https://didintel.dev
-baseurl: 
+baseurl: https://didintel.dev
 
 # Site settings
 title: DID INTELLIGENCE & DEV LLC
@@ -45,8 +45,8 @@ social:
 address:
   - line: 30 N Gould St Ste R
   - line: Sheridan, WY 82801, USA
-  - line: 18 Av Iskanderia
-  - line: 8000 Nabeul, Tunisia
+  - line: IFZA DDP, Building 2
+  - line: Dubai Silicon Oasis, Dubai, UAE
 
 # Build settings
 markdown: kramdown
