@@ -9,7 +9,7 @@ thumbnail: imova.jpg
 alt: Imova is real estate buying platform that we are helping to progressively and intelligently integrates automation processes.
 project-date: January 2023
 client: Imova SARL
-client-url: https://imova.pro/
+client-url: https://didintel.github.io/imova/
 category: Web Development
 description: Imova is real estate buying platform that we are helping to progressively and intelligently integrates automation processes. In the works are 3D virtual tours of houses and apartments, conversational AI, Big Data, data analysis and management (BI tools), and advertisement advertising automation by Robotic Process Automation.
 
